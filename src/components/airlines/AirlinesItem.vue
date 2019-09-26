@@ -76,8 +76,8 @@ export default {
       padding: 0 20px;
       font-weight: bold;
     }
-    &__name {
-    }
+    // &__name {
+    // }
   }
   &__badges {
     &__badge {
